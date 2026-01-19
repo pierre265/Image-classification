@@ -1,4 +1,4 @@
-# 📱 Image Classification Mobile App
+# Image Classification Mobile App
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.81-blue?logo=react)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo)](https://expo.dev/)
@@ -33,7 +33,7 @@ expo/
     └── useClassification.ts # Logique de classification
 ```
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 | Technologie | Version | Rôle |
 |------------|---------|------|
@@ -49,7 +49,7 @@ expo/
 - **npm** ou **yarn**
 - **Expo Go** app sur votre téléphone ([iOS](https://apps.apple.com/app/expo-go/id982107779) / [Android](https://play.google.com/store/apps/details?id=host.exp.exponent))
 
-## 🚀 Installation
+## Installation
 
 ### 1. Cloner le repository
 
@@ -183,10 +183,6 @@ export const SPACING = {
 - [Expo Camera Documentation](https://docs.expo.dev/versions/latest/sdk/camera/)
 - [React Native Documentation](https://reactnative.dev/docs/getting-started)
 
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ---
 
-**Développé dans le cadre du cours "IA Embarquée" - ESIEA 5A**
+**Développé pour monter en compétences sur Reactjs**
