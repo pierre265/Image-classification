@@ -4,7 +4,6 @@
 [![Expo](https://img.shields.io/badge/Expo-SDK%2054-000020?logo=expo)](https://expo.dev/)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22-FF6F00?logo=tensorflow)](https://www.tensorflow.org/js)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Application mobile React Native de **classification d'images en temps réel** utilisant TensorFlow.js et le modèle MobileNet. L'application permet de capturer des photos avec la caméra du téléphone et d'identifier automatiquement les objets présents dans l'image.
 
