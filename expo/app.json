@@ -1,0 +1,23 @@
+{
+  "name": "image-classification-expo",
+  "displayName": "image-classification-expo",
+  "expo": {
+    "name": "image-classification-expo",
+    "displayName" : "image-classification-expo",
+    "slug": "image-classification-expo",
+    "version": "1.0.0",
+    "ios": {
+      "infoPlist": {
+        "NSCameraUsageDescription": "Cette application a besoin d'accéder à la caméra pour prendre des photos."
+      }
+    },
+    "android": {
+      "permissions": [
+        "CAMERA"
+      ]
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
