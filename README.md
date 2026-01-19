@@ -176,7 +176,7 @@ export const SPACING = {
 | Taille du bundle | ~15 MB |
 | Catégories supportées | 1000+ (ImageNet) |
 
-## 🔗 Ressources
+## Ressources
 
 - [TensorFlow.js Documentation](https://www.tensorflow.org/js)
 - [MobileNet Model](https://github.com/tensorflow/tfjs-models/tree/master/mobilenet)
